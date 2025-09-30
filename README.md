@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, it's Siderilla!</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00ccff&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+in+progress;Creative+coder+%26+designer;Music+%7C+Art+%7C+Games" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00ccff&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+progress;Creative+coder+%26+designer;Music+%7C+Art+%7C+Games" alt="Typing SVG"/>
 </div>
 
 ## 🚀 About Me
