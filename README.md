@@ -3,15 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00ccff&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+in+progress;Creative+coder+%26+designer;Music+%7C+Art+%7C+Games" alt="Typing SVG"/>
 </div>
 
----
-
 ## 🚀 About Me
 - 🌱 Currently studying to become a **Full-Stack Developer**  
 - 🎨 Strong background in **graphic design** and creativity  
 - 🎹 Passionate about **music, drawing, painting, and video games**  
 - 🛠️ Love experimenting with **tech + art** (games, interactive apps, creative coding)  
-
----
 
 ## 💻 Tech Stack
 
@@ -31,11 +27,9 @@
 ![Angular Material](https://img.shields.io/badge/Material%20Design-757575?logo=material-design&logoColor=white&style=flat-square)
 
 ### 🔹 Tools & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=square)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siderilla&show_icons=true&theme=tokyonight)  
@@ -46,3 +40,4 @@
 ## 📫 Connect with me
 - ✉️ You can reach me here on GitHub
 - WIP 
+
