@@ -32,8 +32,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=square)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true&border_radius=15&title_color=00ccff&icon_color=ffb0f6&text_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent&hide_border=true&border_radius=15&title_color=00ccff&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siderilla&show_icons=true&theme=transparent&hide_border=true&border_radius=15&title_color=00ccff&icon_color=ffb0f6&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siderilla&layout=compact&theme=transparent&hide_border=true&border_radius=15&title_color=00ccff&text_color=ffffff)
 
 
 ## 📫 Connect with me
