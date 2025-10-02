@@ -42,8 +42,6 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siderilla&show_icons=true&theme=transparent&hide_border=true&border_radius=15&title_color=00ccff&icon_color=ffb0f6&text_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siderilla&layout=compact&theme=transparent&hide_border=true&border_radius=15&title_color=00ccff&text_color=ffffff)
-![GitHub Streak](https://streak-stats.demolab.com?user=siderilla&theme=transparent&hide_border=true&border_radius=15&ring=00ccff&fire=ffb0f6&currStreakLabel=ffffff)
-
 
 ## 📫 Connect with me
 - ✉️ You can reach me here on GitHub
