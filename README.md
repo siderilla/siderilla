@@ -43,6 +43,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siderilla&show_icons=true&theme=transparent&hide_border=true&border_radius=15&title_color=00ccff&icon_color=ffb0f6&text_color=ffffff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siderilla&layout=compact&theme=transparent&hide_border=true&border_radius=15&title_color=00ccff&text_color=ffffff)
 
+![Snake animation](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
+
 ## 📫 Connect with me
 - ✉️ You can reach me here on GitHub
 - WIP 
