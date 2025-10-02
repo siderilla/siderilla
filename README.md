@@ -34,6 +34,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square)
