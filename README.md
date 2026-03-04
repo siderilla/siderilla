@@ -39,11 +39,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siderilla&show_icons=true&theme=transparent&hide_border=true&border_radius=15&title_color=00ccff&icon_color=ffb0f6&text_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siderilla&layout=compact&theme=transparent&hide_border=true&border_radius=15&title_color=00ccff&text_color=ffffff)
-
-
 ## 📫 Connect with me
 - ✉️ You can reach me here on GitHub
 - WIP 
