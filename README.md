@@ -1,11 +1,11 @@
-<div align="center">
+<pre>
                                                   
                                                 
  ▄▄▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄  ▄▄ ▄▄    ▄▄     ▄▄▄  
 ███▄▄ ██ ██▀██ ██▄▄  ██▄█▄ ██ ██    ██    ██▀██ 
 ▄▄██▀ ██ ████▀ ██▄▄▄ ██ ██ ██ ██▄▄▄ ██▄▄▄ ██▀██ 
                                                 
-</div>
+</pre>
 
 ## About Me
 - Currently studying to become a **Full-Stack Developer**  
