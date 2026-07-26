@@ -7,7 +7,8 @@
                                                 
 </pre>
 
-## About Me
+### Reach me here via PM on GitHub 
+
 - Currently studying to become a **Full-Stack Developer**  
 - Strong background in **graphic design** and creativity  
 - Passionate about **music, drawing, painting, and video games**  
@@ -40,5 +41,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square)
-
-You can contact me here via PM on GitHub 
