@@ -1,5 +1,10 @@
 <div align="center">
-  <h1>Hi, it's Siderilla!</h1>
+                                                  
+                                                
+ ▄▄▄▄ ▄▄ ▄▄▄▄  ▄▄▄▄▄ ▄▄▄▄  ▄▄ ▄▄    ▄▄     ▄▄▄  
+███▄▄ ██ ██▀██ ██▄▄  ██▄█▄ ██ ██    ██    ██▀██ 
+▄▄██▀ ██ ████▀ ██▄▄▄ ██ ██ ██ ██▄▄▄ ██▄▄▄ ██▀██ 
+                                                
 </div>
 
 ## About Me
@@ -36,4 +41,4 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square)
 
-## Connect with me
+You can contact me here via PM on GitHub 
