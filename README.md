@@ -12,7 +12,10 @@
 - Currently studying to become a **Full-Stack Developer**  
 - Strong background in **graphic design** and creativity  
 - Passionate about **music, drawing, painting, and video games**  
-- Love experimenting with **tech + art** (games, interactive apps, creative coding)  
+- Love experimenting with **tech + art** (games, interactive apps, creative coding)
+
+### Projects
+[**Before I Go**](https://siderilla.itch.io/beforeigo) — narrative puzzle game, GMTK Game Jam 2026 · vanilla JS + HTML5 Canvas, pixel art and original soundtrack
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
@@ -28,8 +31,10 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
 ![Angular Material](https://img.shields.io/badge/Material%20Design-757575?logo=material-design&logoColor=white&style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 
 ### Tools & Platforms
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
@@ -41,3 +46,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white&style=flat-square)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat-square)
